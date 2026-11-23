@@ -1,0 +1,12 @@
+{
+  "name": "egentix-studio",
+  "description": "Egentix Studio: local content tools that run inside your own Claude Code",
+  "owner": { "name": "Egentix" },
+  "plugins": [
+    {
+      "name": "content-studio",
+      "source": "./plugins/content-studio",
+      "description": "Render short title-card videos locally from a title and subtitle"
+    }
+  ]
+}

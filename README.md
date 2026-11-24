@@ -20,7 +20,7 @@ Then ask Claude Code, for example: "Make a title card: Egentix, subtitle Selg sm
 ## What you need
 
 - Node.js 20 or newer.
-- The kinetype renderer (it uses a headless Chrome and ffmpeg). It is not public yet; until it is, the skill stops and says it cannot find the renderer. This page will give the install steps once it is out. When you have it, set `EGENTIX_KINETYPE` to its `bin/kinetype.js`.
+- The kinetype renderer (it uses a headless Chrome and ffmpeg). It is not public yet; until it is, the skill stops and says it cannot find the renderer. This page will give the install steps once it is out. When you have it, set `EGENTIX_KINETYPE` to its `bin/kinetype.js`, either in the terminal before you start Claude Code or under `env` in your Claude Code settings.
 
 ## Licence
 

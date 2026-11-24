@@ -18,4 +18,4 @@ Options: `--duration SECONDS` (default 4), `--format landscape|vertical` (defaul
 The script calls the kinetype renderer at the path in env `EGENTIX_KINETYPE` (default: `kinetype` on PATH). If it is missing, the script exits with a hint; tell the user rather than guessing another path.
 After it finishes, report the mp4 path printed on the last line.
 
-Layout adapted from video-shotcraft (Apache-2.0, https://github.com/Vincentwei1021/video-shotcraft).
+The skill folder layout follows video-shotcraft (Apache-2.0, https://github.com/Vincentwei1021/video-shotcraft); no code is copied from it.

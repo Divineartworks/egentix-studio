@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Local title-card render. Spec -> kinetype render. No network. Apache-2.0.
+// Local title-card render. Spec -> kinetype render. No network. MIT, see LICENSE.
 import { spawnSync } from "node:child_process";
 import { mkdirSync, writeFileSync, readdirSync } from "node:fs";
 import { join, resolve } from "node:path";

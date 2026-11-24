@@ -3,6 +3,6 @@
   "version": "0.1.0",
   "description": "Render short title-card videos locally from a title and subtitle. Runs on your machine; nothing is sent to Egentix.",
   "author": { "name": "Egentix" },
-  "license": "Apache-2.0",
+  "license": "MIT",
   "keywords": ["video", "title-card", "local-render"]
 }
